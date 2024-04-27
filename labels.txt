@@ -1,2 +1,2 @@
-0 dormido
-1 despierto
+0 marcador
+1 borrador
