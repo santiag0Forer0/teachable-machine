@@ -1,2 +1,3 @@
 0 teclado
 1 no teclado
+2 mouse
