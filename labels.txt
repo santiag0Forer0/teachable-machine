@@ -1,2 +1,2 @@
-0 marcador
-1 borrador
+0 teclado
+1 no teclado
